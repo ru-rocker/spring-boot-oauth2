@@ -1,0 +1,8 @@
+security:
+  oauth2:
+    resource:
+      jwt:
+        key-value: JWT_SIGNING_KEY
+        
+server:
+  port: 8181
